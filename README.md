@@ -1,2 +1,2 @@
-# python1
+# python repository
 basic python file by raa
